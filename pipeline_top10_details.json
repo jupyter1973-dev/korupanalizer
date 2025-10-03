@@ -1,0 +1,682 @@
+{
+  "Kementerian Y": {
+    "instansi": "Kementerian Y",
+    "packages": 107,
+    "total_contracts": 5512349825,
+    "total_estimated_loss": 206671866,
+    "top5_risky_packages": [
+      {
+        "id": "PCKT-100463",
+        "jenis_pengadaan": "Jasa Konsultan",
+        "nilai_kontrak": 119508510,
+        "harga_pasar": 44737059,
+        "hps": 93731714,
+        "probability_risk": 0.8357678392706548,
+        "impact_score": 0.9475728873017019,
+        "estimated_loss": 94644877.3788444,
+        "risk_level": "Sangat Tinggi"
+      },
+      {
+        "id": "PCKT-101170",
+        "jenis_pengadaan": "Barang-NonIT",
+        "nilai_kontrak": 97149434,
+        "harga_pasar": 41439178,
+        "hps": 97417653,
+        "probability_risk": 0.8233171698913078,
+        "impact_score": 0.7223197252469717,
+        "estimated_loss": 57774596.634452134,
+        "risk_level": "Sangat Tinggi"
+      },
+      {
+        "id": "PCKT-100849",
+        "jenis_pengadaan": "Barang-NonIT",
+        "nilai_kontrak": 95691881,
+        "harga_pasar": 32968419,
+        "hps": 42420691,
+        "probability_risk": 0.8031792418818424,
+        "impact_score": 0.7058807302337142,
+        "estimated_loss": 54252392.29590933,
+        "risk_level": "Sangat Tinggi"
+      },
+      {
+        "id": "PCKT-100611",
+        "jenis_pengadaan": "Alkes",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 37571575,
+        "hps": 42671237,
+        "probability_risk": 0.41873238034088694,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      },
+      {
+        "id": "PCKT-100441",
+        "jenis_pengadaan": "Alkes",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 43201363,
+        "hps": 47591516,
+        "probability_risk": 0.29554734341712663,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      }
+    ],
+    "common_risks": {
+      "avg_price_markup_pct": 16.45709638448802,
+      "avg_spec_score": 0.8291028037383178,
+      "avg_vendor_reliability": 0.5305327102803739
+    }
+  },
+  "Pemprov Jabar": {
+    "instansi": "Pemprov Jabar",
+    "packages": 101,
+    "total_contracts": 5190917510,
+    "total_estimated_loss": 146800643,
+    "top5_risky_packages": [
+      {
+        "id": "PCKT-100617",
+        "jenis_pengadaan": "Barang-IT",
+        "nilai_kontrak": 118077514,
+        "harga_pasar": 35815410,
+        "hps": 80435463,
+        "probability_risk": 0.7913244955293741,
+        "impact_score": 0.9344730619763495,
+        "estimated_loss": 87314947.46178587,
+        "risk_level": "Sangat Tinggi"
+      },
+      {
+        "id": "PCKT-101016",
+        "jenis_pengadaan": "Barang-NonIT",
+        "nilai_kontrak": 87443520,
+        "harga_pasar": 53536098,
+        "hps": 84483390,
+        "probability_risk": 0.6295031847971875,
+        "impact_score": 0.6078568245284495,
+        "estimated_loss": 33460071.15923331,
+        "risk_level": "Tinggi"
+      },
+      {
+        "id": "PCKT-100378",
+        "jenis_pengadaan": "Alkes",
+        "nilai_kontrak": 85396476,
+        "harga_pasar": 58300103,
+        "hps": 97924520,
+        "probability_risk": 0.5235594368401593,
+        "impact_score": 0.5820968185761556,
+        "estimated_loss": 26025624.944939803,
+        "risk_level": "Tinggi"
+      },
+      {
+        "id": "PCKT-100684",
+        "jenis_pengadaan": "Konstruksi",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 41622625,
+        "hps": 41236018,
+        "probability_risk": 0.25891235031569415,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      },
+      {
+        "id": "PCKT-100366",
+        "jenis_pengadaan": "Barang-NonIT",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 52117722,
+        "hps": 53014887,
+        "probability_risk": 0.22899999999999998,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      }
+    ],
+    "common_risks": {
+      "avg_price_markup_pct": 12.542865775164802,
+      "avg_spec_score": 0.791217821782178,
+      "avg_vendor_reliability": 0.5468217821782178
+    }
+  },
+  "Pemkab X": {
+    "instansi": "Pemkab X",
+    "packages": 111,
+    "total_contracts": 5649594396,
+    "total_estimated_loss": 123584969,
+    "top5_risky_packages": [
+      {
+        "id": "PCKT-100838",
+        "jenis_pengadaan": "Barang-NonIT",
+        "nilai_kontrak": 119808074,
+        "harga_pasar": 39391420,
+        "hps": 60504688,
+        "probability_risk": 0.8696775312155496,
+        "impact_score": 0.9502953364446456,
+        "estimated_loss": 99015442.91590872,
+        "risk_level": "Sangat Tinggi"
+      },
+      {
+        "id": "PCKT-100191",
+        "jenis_pengadaan": "Jasa Konsultan",
+        "nilai_kontrak": 79786322,
+        "harga_pasar": 50511186,
+        "hps": 94401387,
+        "probability_risk": 0.6059444566509766,
+        "impact_score": 0.5082010183431364,
+        "estimated_loss": 24569526.851299446,
+        "risk_level": "Tinggi"
+      },
+      {
+        "id": "PCKT-100913",
+        "jenis_pengadaan": "Jasa Konsultan",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 44039440,
+        "hps": 43685492,
+        "probability_risk": 0.27910528493874,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      },
+      {
+        "id": "PCKT-100559",
+        "jenis_pengadaan": "Alkes",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 44566755,
+        "hps": 51625418,
+        "probability_risk": 0.22685736237624374,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      },
+      {
+        "id": "PCKT-101080",
+        "jenis_pengadaan": "Jasa Konsultan",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 41149353,
+        "hps": 40788893,
+        "probability_risk": 0.3415842691798215,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      }
+    ],
+    "common_risks": {
+      "avg_price_markup_pct": 12.949829148597313,
+      "avg_spec_score": 0.826018018018018,
+      "avg_vendor_reliability": 0.6128198198198198
+    }
+  },
+  "Kemendikbud": {
+    "instansi": "Kemendikbud",
+    "packages": 102,
+    "total_contracts": 5191798511,
+    "total_estimated_loss": 107918375,
+    "top5_risky_packages": [
+      {
+        "id": "PCKT-101122",
+        "jenis_pengadaan": "Alkes",
+        "nilai_kontrak": 115796600,
+        "harga_pasar": 39141393,
+        "hps": 63346020,
+        "probability_risk": 0.7877167927423173,
+        "impact_score": 0.9132609823621807,
+        "estimated_loss": 83303033.25587878,
+        "risk_level": "Sangat Tinggi"
+      },
+      {
+        "id": "PCKT-100643",
+        "jenis_pengadaan": "Konstruksi",
+        "nilai_kontrak": 76001911,
+        "harga_pasar": 34936055,
+        "hps": 59918518,
+        "probability_risk": 0.7112608030510339,
+        "impact_score": 0.4553574892700823,
+        "estimated_loss": 24615341.87624004,
+        "risk_level": "Tinggi"
+      },
+      {
+        "id": "PCKT-100321",
+        "jenis_pengadaan": "Barang-IT",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 40717023,
+        "hps": 47116156,
+        "probability_risk": 0.3750753689047844,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      },
+      {
+        "id": "PCKT-100502",
+        "jenis_pengadaan": "Barang-IT",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 43408535,
+        "hps": 40036943,
+        "probability_risk": 0.21234680781500123,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      },
+      {
+        "id": "PCKT-100985",
+        "jenis_pengadaan": "Jasa Konsultan",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 50031112,
+        "hps": 33427099,
+        "probability_risk": 0.11600000000000002,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      }
+    ],
+    "common_risks": {
+      "avg_price_markup_pct": 15.570617888232762,
+      "avg_spec_score": 0.8334411764705882,
+      "avg_vendor_reliability": 0.5433725490196077
+    }
+  },
+  "Kemenhub": {
+    "instansi": "Kemenhub",
+    "packages": 101,
+    "total_contracts": 5153180072,
+    "total_estimated_loss": 105908979,
+    "top5_risky_packages": [
+      {
+        "id": "PCKT-100065",
+        "jenis_pengadaan": "Jasa Konsultan",
+        "nilai_kontrak": 91978458,
+        "harga_pasar": 43991024,
+        "hps": 59201372,
+        "probability_risk": 0.7899583818440171,
+        "impact_score": 0.6628401423319081,
+        "estimated_loss": 48161403.877123185,
+        "risk_level": "Sangat Tinggi"
+      },
+      {
+        "id": "PCKT-100316",
+        "jenis_pengadaan": "Barang-NonIT",
+        "nilai_kontrak": 89208758,
+        "harga_pasar": 44247622,
+        "hps": 77481418,
+        "probability_risk": 0.7248729706132412,
+        "impact_score": 0.629590901627902,
+        "estimated_loss": 40712506.61883533,
+        "risk_level": "Tinggi"
+      },
+      {
+        "id": "PCKT-100454",
+        "jenis_pengadaan": "Konstruksi",
+        "nilai_kontrak": 71992856,
+        "harga_pasar": 54235324,
+        "hps": 114199651,
+        "probability_risk": 0.59688676458012,
+        "impact_score": 0.39642637656507795,
+        "estimated_loss": 17035068.90063501,
+        "risk_level": "Sedang"
+      },
+      {
+        "id": "PCKT-101115",
+        "jenis_pengadaan": "Alkes",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 40495277,
+        "hps": 40387819,
+        "probability_risk": 0.36404054338906044,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      },
+      {
+        "id": "PCKT-100083",
+        "jenis_pengadaan": "Alkes",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 51786209,
+        "hps": 58450878,
+        "probability_risk": 0.18175,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      }
+    ],
+    "common_risks": {
+      "avg_price_markup_pct": 14.291882638529524,
+      "avg_spec_score": 0.8003861386138613,
+      "avg_vendor_reliability": 0.5628217821782178
+    }
+  },
+  "Kemenkeu": {
+    "instansi": "Kemenkeu",
+    "packages": 98,
+    "total_contracts": 5035065063,
+    "total_estimated_loss": 93927888,
+    "top5_risky_packages": [
+      {
+        "id": "PCKT-100994",
+        "jenis_pengadaan": "Barang-NonIT",
+        "nilai_kontrak": 109653823,
+        "harga_pasar": 42484508,
+        "hps": 73041166,
+        "probability_risk": 0.7309065173947327,
+        "impact_score": 0.8539870250451636,
+        "estimated_loss": 68444236.68057448,
+        "risk_level": "Sangat Tinggi"
+      },
+      {
+        "id": "PCKT-100649",
+        "jenis_pengadaan": "Konstruksi",
+        "nilai_kontrak": 125411240,
+        "harga_pasar": 115072249,
+        "hps": 123411498,
+        "probability_risk": 0.20320069821268322,
+        "impact_score": 1.0,
+        "estimated_loss": 25483651.531718384,
+        "risk_level": "Sedang"
+      },
+      {
+        "id": "PCKT-100257",
+        "jenis_pengadaan": "Barang-NonIT",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 42374578,
+        "hps": 51747008,
+        "probability_risk": 0.2760908640690981,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      },
+      {
+        "id": "PCKT-100056",
+        "jenis_pengadaan": "Konstruksi",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 35562452,
+        "hps": 39025397,
+        "probability_risk": 0.380363194392369,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      },
+      {
+        "id": "PCKT-100356",
+        "jenis_pengadaan": "Alkes",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 44970841,
+        "hps": 52605745,
+        "probability_risk": 0.27291798842435777,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      }
+    ],
+    "common_risks": {
+      "avg_price_markup_pct": 15.681665693777328,
+      "avg_spec_score": 0.8126020408163266,
+      "avg_vendor_reliability": 0.5843163265306123
+    }
+  },
+  "Pemprov Sumut": {
+    "instansi": "Pemprov Sumut",
+    "packages": 93,
+    "total_contracts": 4742795325,
+    "total_estimated_loss": 93162312,
+    "top5_risky_packages": [
+      {
+        "id": "PCKT-100450",
+        "jenis_pengadaan": "Konstruksi",
+        "nilai_kontrak": 97574294,
+        "harga_pasar": 45352829,
+        "hps": 93612713,
+        "probability_risk": 0.6822751620069676,
+        "impact_score": 0.7270650985260223,
+        "estimated_loss": 48402553.81099945,
+        "risk_level": "Tinggi"
+      },
+      {
+        "id": "PCKT-101159",
+        "jenis_pengadaan": "Alkes",
+        "nilai_kontrak": 95221031,
+        "harga_pasar": 52796095,
+        "hps": 52314119,
+        "probability_risk": 0.6710213927206251,
+        "impact_score": 0.7005167042206877,
+        "estimated_loss": 44759759.18296654,
+        "risk_level": "Tinggi"
+      },
+      {
+        "id": "PCKT-100470",
+        "jenis_pengadaan": "Barang-NonIT",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 52795644,
+        "hps": 63837689,
+        "probability_risk": 0.243,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      },
+      {
+        "id": "PCKT-101048",
+        "jenis_pengadaan": "Jasa Konsultan",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 39333771,
+        "hps": 43260055,
+        "probability_risk": 0.42750359355445205,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      },
+      {
+        "id": "PCKT-100011",
+        "jenis_pengadaan": "Alkes",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 40805412,
+        "hps": 36437886,
+        "probability_risk": 0.36384466951704486,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      }
+    ],
+    "common_risks": {
+      "avg_price_markup_pct": 12.718385094432366,
+      "avg_spec_score": 0.8204838709677419,
+      "avg_vendor_reliability": 0.5474731182795699
+    }
+  },
+  "BPK": {
+    "instansi": "BPK",
+    "packages": 99,
+    "total_contracts": 5001625512,
+    "total_estimated_loss": 46470979,
+    "top5_risky_packages": [
+      {
+        "id": "PCKT-100471",
+        "jenis_pengadaan": "Alkes",
+        "nilai_kontrak": 87797605,
+        "harga_pasar": 41893729,
+        "hps": 45984906,
+        "probability_risk": 0.7896367270340161,
+        "impact_score": 0.61225137856768,
+        "estimated_loss": 42446294.26061651,
+        "risk_level": "Tinggi"
+      },
+      {
+        "id": "PCKT-100621",
+        "jenis_pengadaan": "Barang-NonIT",
+        "nilai_kontrak": 63827907,
+        "harga_pasar": 53147878,
+        "hps": 52426585,
+        "probability_risk": 0.23747653079726408,
+        "impact_score": 0.26552204556036546,
+        "estimated_loss": 4024684.902845415,
+        "risk_level": "Rendah"
+      },
+      {
+        "id": "PCKT-100089",
+        "jenis_pengadaan": "Barang-NonIT",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 36069307,
+        "hps": 35353351,
+        "probability_risk": 0.297976424411167,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      },
+      {
+        "id": "PCKT-100341",
+        "jenis_pengadaan": "Konstruksi",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 47485946,
+        "hps": 51009235,
+        "probability_risk": 0.1951101890131007,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      },
+      {
+        "id": "PCKT-100312",
+        "jenis_pengadaan": "Konstruksi",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 40892502,
+        "hps": 38146191,
+        "probability_risk": 0.2373858548348212,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      }
+    ],
+    "common_risks": {
+      "avg_price_markup_pct": 13.97211522704254,
+      "avg_spec_score": 0.8121313131313133,
+      "avg_vendor_reliability": 0.6092929292929293
+    }
+  },
+  "Kominfo": {
+    "instansi": "Kominfo",
+    "packages": 103,
+    "total_contracts": 5182934056,
+    "total_estimated_loss": 28670985,
+    "top5_risky_packages": [
+      {
+        "id": "PCKT-100139",
+        "jenis_pengadaan": "Alkes",
+        "nilai_kontrak": 82934056,
+        "harga_pasar": 52525223,
+        "hps": 68400882,
+        "probability_risk": 0.6282419390500013,
+        "impact_score": 0.5502788142372776,
+        "estimated_loss": 28670985.646317426,
+        "risk_level": "Tinggi"
+      },
+      {
+        "id": "PCKT-100960",
+        "jenis_pengadaan": "Barang-NonIT",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 39527516,
+        "hps": 47392085,
+        "probability_risk": 0.29775749176763766,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      },
+      {
+        "id": "PCKT-100970",
+        "jenis_pengadaan": "Barang-NonIT",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 39068389,
+        "hps": 40043857,
+        "probability_risk": 0.26369902569408665,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      },
+      {
+        "id": "PCKT-100530",
+        "jenis_pengadaan": "Konstruksi",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 46525580,
+        "hps": 49888833,
+        "probability_risk": 0.2013109886647135,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      },
+      {
+        "id": "PCKT-100446",
+        "jenis_pengadaan": "Barang-IT",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 47538543,
+        "hps": 36287730,
+        "probability_risk": 0.22225309950682015,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      }
+    ],
+    "common_risks": {
+      "avg_price_markup_pct": 15.624199379157039,
+      "avg_spec_score": 0.8044660194174755,
+      "avg_vendor_reliability": 0.5900291262135922
+    }
+  },
+  "Kemenag": {
+    "instansi": "Kemenag",
+    "packages": 96,
+    "total_contracts": 4825364059,
+    "total_estimated_loss": 23371718,
+    "top5_risky_packages": [
+      {
+        "id": "PCKT-100457",
+        "jenis_pengadaan": "Jasa Konsultan",
+        "nilai_kontrak": 75364059,
+        "harga_pasar": 39940222,
+        "hps": 60479293,
+        "probability_risk": 0.6950310521937978,
+        "impact_score": 0.4461923944008526,
+        "estimated_loss": 23371718.794281196,
+        "risk_level": "Tinggi"
+      },
+      {
+        "id": "PCKT-100173",
+        "jenis_pengadaan": "Jasa Konsultan",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 42627532,
+        "hps": 45642480,
+        "probability_risk": 0.3793671261024386,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      },
+      {
+        "id": "PCKT-100042",
+        "jenis_pengadaan": "Barang-IT",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 47369901,
+        "hps": 46112728,
+        "probability_risk": 0.08825224646236418,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      },
+      {
+        "id": "PCKT-101029",
+        "jenis_pengadaan": "Jasa Konsultan",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 44954300,
+        "hps": 44341378,
+        "probability_risk": 0.19269155866570487,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      },
+      {
+        "id": "PCKT-101118",
+        "jenis_pengadaan": "Jasa Konsultan",
+        "nilai_kontrak": 50000000,
+        "harga_pasar": 52701168,
+        "hps": 52439549,
+        "probability_risk": 0.07025,
+        "impact_score": 0.0,
+        "estimated_loss": 0.0,
+        "risk_level": "Rendah"
+      }
+    ],
+    "common_risks": {
+      "avg_price_markup_pct": 11.96282893742137,
+      "avg_spec_score": 0.8133020833333333,
+      "avg_vendor_reliability": 0.5804062500000001
+    }
+  }
+}
